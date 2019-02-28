@@ -1,0 +1,62 @@
+
+head {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: white;
+    height: 200px;
+    width: 100%;
+}
+
+nav, h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background-color: white;
+    width: 960px;
+    font-size: 18px;
+    background: #ebebeb;
+}
+
+nav {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color:#777;
+    width: 100%;
+    max-height: 100%;
+
+}
+
+article {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: white;
+    width: 960px;
+    font-size: 18px;
+    background: #ebebeb;
+}
+   
+section { 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: white;
+    width: 960px;
+    font-size: 18px;
+    background: #ebebeb;
+    
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: white;
+    width: 960px;
+    height: 600px
+    font-size: 18px;
+    background: #ebebeb;
+    text-algn: center;
+    padding: 20px;
+}
