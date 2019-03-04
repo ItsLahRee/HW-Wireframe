@@ -1,62 +1,74 @@
 
-head {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777;
-    background-color: white;
-    height: 200px;
-    width: 100%;
-}
-
-nav, h1 {
+/* .CLASS TAG TITLES */
+.titles {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #777;
-    background-color: white;
-    width: 960px;
-    font-size: 18px;
-    background: #ebebeb;
-}
-
-nav {
+    background-color: purple;
+    font-weight: normal;
     text-align: center;
+    max-width: 960px;
+  
 }
 
+/* .CLASS TAG ARTICLE*/
+.article {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red; 
+    color: #ebebeb;
+    padding: 20px, 20px, 20px, 20px;
+    margin: 10px auto;
+}
+
+
+/* NAVBAR & H1 */
+nav, h1, h2 {
+    max-width: 960px;
+    padding: 40px 0;
+    margin: 0 auto;
+    border: none;
+}
+
+/* BODY */
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     background-color:#777;
     width: 100%;
     max-height: 100%;
-
 }
 
-article {
+/* SECTION 1 */
+aside {
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
-    background-color: white;
-    width: 960px;
+    background-color:#ebebeb;
+    width: 495px;
     font-size: 18px;
-    background: #ebebeb;
-}
+    margin: 0 auto;
    
+
+}
+
+   /* SECTION 2  */
 section { 
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
-    background-color: white;
-    width: 960px;
+    width: 495px;
     font-size: 18px;
-    background: #ebebeb;
+    background-color: #ebebeb;
+    text-align: center;
+    height: 350px;
+    padding: 20px 0;
+    margin: 10px auto;
     
 }
 
+/* FOOTER */
 footer {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777;
-    background-color: white;
-    width: 960px;
-    height: 600px
-    font-size: 18px;
-    background: #ebebeb;
-    text-algn: center;
-    padding: 20px;
+    max-width: 960px;
+    padding: 40px 0;
+    margin: 0 auto;
+    border: none;
+    clear: both;  
 }
