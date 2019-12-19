@@ -42,7 +42,7 @@ Laurie Strecker in collaboration with educational documents from Trilogy Educati
 ## License
 
 ```
-![GitHub](https://img.shields.io/github/license/lauriestrecker/HW-Wireframe?color=success)
+[![GitHub](https://img.shields.io/github/license/lauriestrecker/HW-Wireframe?color=success)]
 
 ```
 
