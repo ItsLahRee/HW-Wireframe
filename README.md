@@ -16,8 +16,11 @@ Visual Studio Code/Text Editor: [https://code.visualstudio.com/download]
 ```
 ## Deployment
 
+```
 This project can be deployed on GitHub: 
 [https://www.codecademy.com/articles/f1-u3-github-pages]
+
+```
 
 ## Built With
 
@@ -38,7 +41,10 @@ Laurie Strecker in collaboration with educational documents from Trilogy Educati
 
 ## License
 
-[https://img.shields.io/github/license/lauriestrecker/HW-Wireframe?color=success]
+```
+![GitHub](https://img.shields.io/github/license/lauriestrecker/HW-Wireframe?color=success)
+
+```
 
 
 ## Acknowledgments
