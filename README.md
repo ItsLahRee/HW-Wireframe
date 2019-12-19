@@ -16,9 +16,9 @@ Visual Studio Code/Text Editor: [https://code.visualstudio.com/download]
 ```
 ## Deployment
 
-```
 This project can be deployed on GitHub: 
-[https://www.codecademy.com/articles/f1-u3-github-pages]
+```
+[https://developer.github.com/v3/guides/delivering-deployments/]
 
 ```
 
@@ -33,7 +33,7 @@ Feel free to contribute, send me a pull request.
 
 ## Versioning
 
-Used GitHub for versioning. 
+GitHub 
 
 ## Authors
 
@@ -41,10 +41,6 @@ Laurie Strecker in collaboration with educational documents from Trilogy Educati
 
 ## License
 
-```
-[![GitHub](https://img.shields.io/github/license/lauriestrecker/HW-Wireframe?color=success)]
-
-```
 
 
 ## Acknowledgments
