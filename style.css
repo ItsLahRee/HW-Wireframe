@@ -1,74 +1,77 @@
-
-/* .CLASS TAG TITLES */
+.clearfix:before,
+.clearfix:after {
+    box-sizing: border-box;
+    content: " ";
+    display: block;
+    clear: both;
+  }
+/* .class tags */
 .titles {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    color: #777;
-    background-color: purple;
+  
     font-weight: normal;
     text-align: center;
-    max-width: 960px;
-  
+    padding: 40px;
+    margin: 10px;
 }
 
-/* .CLASS TAG ARTICLE*/
-.article {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: red; 
-    color: #ebebeb;
-    padding: 20px, 20px, 20px, 20px;
-    margin: 10px auto;
+.alt-titles {
+    background-color: #ebebeb;
+    color: #777;
 }
 
-
-/* NAVBAR & H1 */
-nav, h1, h2 {
-    max-width: 960px;
-    padding: 40px 0;
+.wrapper {
+    width: 960px;
     margin: 0 auto;
-    border: none;
 }
+
 
 /* Body */
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     background-color:#777;
-    width: 100%;
-    max-height: 100%;
+}
+
+/* Navbar */
+nav {
+    max-width: 960px;
+    margin-top: 10px;
+    border: none;
+    background-color: #ebebeb;
+}
+
+
+/* Section */
+
+section {
+    background-color: aquamarine;
+	float: left;
+	height: 279px;
+	width: 495px;
+	box-sizing: border-box;
+	padding: 20px;
+}
+
+/*Article*/
+
+article {
+	background-color: coral;
+	color: #ebebeb;
+	box-sizing: border-box;
+    padding: 0 15px 15px 15px;
+    margin: 10px;
 }
 
 /* Aside */
 aside {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777;
-    background-color:#ebebeb;
-    width: 495px;
-    font-size: 18px;
-    margin: 0 auto;
-   
-
+	float: right;
+	height: 279px;
+    width: 445px;
+    margin: 20px;
 }
 
-/* SECTION 2  */
-section { 
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777;
-    width: 495px;
-    font-size: 18px;
-    background-color: #ebebeb;
-    text-align: center;
-    height: 350px;
-    padding: 20px 0;
-    margin: 10px auto;
-    
-}
 
-/* FOOTER */
+/* Footer */
 footer {
     max-width: 960px;
-    padding: 40px 0;
-    margin: 0 auto;
-    border: none;
-    clear: both;  
 }

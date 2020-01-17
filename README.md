@@ -1,6 +1,6 @@
 # HW-Wireframe
 
-The Goal: Use basic CSS positioning to create a pre-defined layout. 
+The Goal: Use basic HTML & CSS to replicate a pre-defined layout. 
 
 ## Getting Started
 
@@ -27,9 +27,7 @@ This project can be deployed on GitHub:
 * HTML5
 * CSS3
 
-## Contributing
 
-Feel free to contribute, send me a pull request.
 
 ## Versioning
 
@@ -42,10 +40,6 @@ Laurie Strecker in collaboration with educational documents from Trilogy Educati
 ## License
 
 
-
-## Acknowledgments
-
-* Thanks to [https://shields.io/] for their awesome badges!
 
 
 
