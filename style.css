@@ -1,28 +1,13 @@
-.clearfix:before,
-.clearfix:after {
-    box-sizing: border-box;
-    content: " ";
-    display: block;
-    clear: both;
-  }
+
+
 /* .class tags */
-.titles {
-  
+.title {
     font-weight: normal;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     margin: 10px;
 }
 
-.alt-titles {
-    background-color: #ebebeb;
-    color: #777;
-}
-
-.wrapper {
-    width: 960px;
-    margin: 0 auto;
-}
 
 
 /* Body */
@@ -30,48 +15,91 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     background-color:#777;
+    width: 960;
+    text-align: center;
+    margin: 0 90px 0px 90px;
+    padding: 0;
+  
 }
+
+header {
+    background-color: #ebebeb;
+    color: #777;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+
 
 /* Navbar */
 nav {
-    max-width: 960px;
-    margin-top: 10px;
-    border: none;
     background-color: #ebebeb;
+    color: #777;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
 }
 
-
 /* Section */
-
 section {
-    background-color: aquamarine;
-	float: left;
-	height: 279px;
-	width: 495px;
-	box-sizing: border-box;
-	padding: 20px;
+    background-color: #ebebeb;
+    padding: 10px 10px 10px 10px;
+    width: 670px;
+    color: #777;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    margin: 0px 10px 10px 10px;
+
+    float: left;
 }
 
 /*Article*/
-
 article {
-	background-color: coral;
+	background-color: #777;
 	color: #ebebeb;
-	box-sizing: border-box;
-    padding: 0 15px 15px 15px;
-    margin: 10px;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+
+h1, h2, p {
+    background-color: #ebebeb;
+    color: #777;
+   
 }
 
 /* Aside */
 aside {
-	float: right;
-	height: 279px;
-    width: 445px;
-    margin: 20px;
+    background-color: #ebebeb;
+    color: #777;
+    font-weight: normal;
+    text-align: center;
+    max-width: 50%;
+    height: 270px;
+    overflow: hidden;
+    padding: 20px;
+    margin: 0px 10px 10px 0px;
+    
 }
 
 
 /* Footer */
 footer {
-    max-width: 960px;
+    background-color: #ebebeb;
+    color: #777;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    clear: both;
 }
+
+
+/*Hint
+Don't forget to review these concepts: float, padding, margin, display, overflow, clear and text-align.*/
