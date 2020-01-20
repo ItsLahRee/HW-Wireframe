@@ -10,40 +10,41 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 ## Specifications
 
 ### Your HTML should have each of the following sections:
-[x] Header
-[x] Nav
-[x] Aside
-[x] Section
-[x] Article (With a Heading)
-[x] Headers
-[x] Paragraph
+1. Header
+2. Nav
+3. Aside
+4. Section
+5. Article (With a Heading)
+6. Headers
+7. Paragraph
 
 ## Your CSS should have styles for each of the following elements:
-[x] Body
-[x] Header, nav, and footer
-[x] Section
-[x] Aside
-[x] Article
-[x] .clear
-[x] Your text elements: h1, p, etc.
+8. Body
+9. Header, nav, and footer
+10. Section
+11. Aside
+12. Article
+13. .clear
+14. Your text elements: h1, p, etc.
 
-### The colors used in your final layout should be:
-[x] Background: #777
-[x] Content: #ebebeb
+## The colors used in your final layout should be:
+15. Background: #777
+16. Content: #ebebeb
 
 ## The widths of each section should be:
-[x] body: 960px
-[x] section: 495px
+17. body: 960px
+18. section: 495px
 
 ## The fonts used in the layout should be:
-[x] font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-[x] font-size 18px
+19. font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+10. font-size 18px
 
 ## Versioning
 
 GitHub 
 
 ## License
+
 MIT
 
 
