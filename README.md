@@ -7,9 +7,9 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 * HTML5
 * CSS3
 
-##Specifications
+## Specifications
 
-###Your HTML should have each of the following sections:
+### Your HTML should have each of the following sections:
 [x] Header
 [x] Nav
 [x] Aside
@@ -18,7 +18,7 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 [x] Headers
 [x] Paragraph
 
-##Your CSS should have styles for each of the following elements:
+## Your CSS should have styles for each of the following elements:
 [x] Body
 [x] Header, nav, and footer
 [x] Section
@@ -27,15 +27,15 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 [x] .clear
 [x] Your text elements: h1, p, etc.
 
-###The colors used in your final layout should be:
+### The colors used in your final layout should be:
 [x] Background: #777
 [x] Content: #ebebeb
 
-##The widths of each section should be:
+## The widths of each section should be:
 [x] body: 960px
 [x] section: 495px
 
-##The fonts used in the layout should be:
+## The fonts used in the layout should be:
 [x] font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 [x] font-size 18px
 
