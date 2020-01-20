@@ -13,7 +13,7 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 
 ## Published on GitHub Pages
 
-[deployed_link](https://lauriestrecker.github.io/HW-Wireframe/"GitHub Pages")
+[deployed_link](https://lauriestrecker.github.io/HW-Wireframe/ "GitHub Pages")
 
 ## Specifications
 
