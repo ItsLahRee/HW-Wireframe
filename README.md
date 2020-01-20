@@ -9,7 +9,7 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 
 ## My Solution
 
-![My_Solution](https://www.dropbox.com/s/pzzg0nksa758kcl/Wireframe_Complete.png?dl=0)
+![My_Solution](/LStrecker_Solution.png)
 
 ## Specifications
 
@@ -49,7 +49,7 @@ GitHub
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
