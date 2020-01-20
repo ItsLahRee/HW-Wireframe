@@ -7,6 +7,10 @@ Used HTML markup and CSS styling to develope a layout with pre-defined specifica
 * HTML5
 * CSS3
 
+## My Solution
+
+![My_Solution](https://www.dropbox.com/s/pzzg0nksa758kcl/Wireframe_Complete.png?dl=0)
+
 ## Specifications
 
 ### Your HTML should have each of the following sections:
